@@ -1,3 +1,4 @@
+
 body{
     min-height: 100vh;
     /*background: linear-gradient(to top right, cyan, greenyellow, violet);*/
@@ -6,6 +7,15 @@ body{
 
     font-family: "Teste";
 }
+
+#logo-header{
+    width: 150px ;
+    display: flex;
+    margin: 20px;
+    margin-bottom: 60px;
+}
+
+
 
 .cor1{
     background: linear-gradient(to right, #f6b00a, #d48308, #f6330a);
@@ -117,4 +127,13 @@ nav > a{
     border-radius: 10px;
     text-transform: bold;
     font-size: 18px;
+}
+
+footer{
+    margin-top: 30vh;
+    background-color: rgb(240, 234, 234);
+}
+#logo-rodape{
+    width: 300px;
+    t
 }
